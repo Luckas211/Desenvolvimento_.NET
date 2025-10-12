@@ -1,0 +1,34 @@
+C:\Users\Administrator\Documents\Manual de Estudo .NET\bin\Debug\net9.0\Manual de Estudo .NET.exe
+C:\Users\Administrator\Documents\Manual de Estudo .NET\bin\Debug\net9.0\Manual de Estudo .NET.deps.json
+C:\Users\Administrator\Documents\Manual de Estudo .NET\bin\Debug\net9.0\Manual de Estudo .NET.runtimeconfig.json
+C:\Users\Administrator\Documents\Manual de Estudo .NET\bin\Debug\net9.0\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\bin\Debug\net9.0\Manual de Estudo .NET.pdb
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\Manual de Estudo .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\Manual de Estudo .NET.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\Manual de Estudo .NET.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\Manual de Estudo .NET.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\refint\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\Manual de Estudo .NET.pdb
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\Manual de Estudo .NET.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Manual de Estudo .NET\obj\Debug\net9.0\ref\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\Manual de Estudo .NET.exe
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\Manual de Estudo .NET.deps.json
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\Manual de Estudo .NET.runtimeconfig.json
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\Manual de Estudo .NET.pdb
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.Common.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.Common.pdb
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual d.2F446F80.Up2Date
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\refint\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.pdb
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\Manual de Estudo .NET.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\obj\Debug\net9.0\ref\Manual de Estudo .NET.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\ArrayeListas.dll
+C:\Users\Administrator\Documents\Manual de Estudo .NET\ExemploFundamentos\bin\Debug\net9.0\ArrayeListas.pdb

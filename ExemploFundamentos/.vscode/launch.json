@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+     
+        
+        {
+            "name": "C#: Launch Startup Project",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net9.0/Manual de Estudo .NET.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "integratedTerminal",
+
+        }
+
+    ]
+}

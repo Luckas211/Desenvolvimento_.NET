@@ -1,0 +1,8 @@
+- [x] Create new class library project ExemploFundamentos.ArrayeListas using dotnet new classlib
+- [x] Add the new project to the solution using dotnet sln add
+- [x] Add project reference from main project to the new library using dotnet add reference
+- [x] Create models folder in the new project
+- [x] Create ArrayeListas.cs class with methods demonstrating arrays and lists
+- [x] Update Program.cs to include demonstration of arrays and lists
+- [x] Build the solution to check for errors
+- [x] Run the program to test

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Manual de Estudo .NET/1.0.0": {
+        "dependencies": {
+          "ArrayeListas": "1.0.0",
+          "ExemploFundamentos.Common": "1.0.0"
+        },
+        "runtime": {
+          "Manual de Estudo .NET.dll": {}
+        }
+      },
+      "ArrayeListas/1.0.0": {
+        "runtime": {
+          "ArrayeListas.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ExemploFundamentos.Common/1.0.0": {
+        "runtime": {
+          "ExemploFundamentos.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manual de Estudo .NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayeListas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploFundamentos.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
