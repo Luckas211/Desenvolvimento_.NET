@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Arroz",
+    "Preco": 24.55,
+    "DataVenda": "2025-10-26T23:51:19.7639182-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Macarrão",
+    "Preco": 5.58,
+    "DataVenda": "2025-10-26T23:51:19.7755091-03:00"
+  }
+]
