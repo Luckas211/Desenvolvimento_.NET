@@ -6,6 +6,7 @@
 
 // Importa o namespace 'AbstracaoEncapsulamento.models', que contém as classes definidas no projeto.
 // Isso permite o uso das classes Pessoa, ContaCorrente, Aluno, Professor, Conta e Corrente sem precisar do nome completo.
+using AbstracaoEncapsulamento.Interfaces;
 using AbstracaoEncapsulamento.models;
 
 // Inicia a seção de demonstração de Abstração.
@@ -120,3 +121,7 @@ c.Creditar(500);
 
 // Exibe o saldo após o crédito, mostrando o efeito da operação.
 c.ExibirSaldo();
+
+Console.WriteLine("---------------------------------------Interfaces---------------------------------------");
+Icalculadora calc = new Calculadora();
+Console.WriteLine(calc.multiplicar(2, 6));

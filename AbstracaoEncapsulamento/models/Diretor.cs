@@ -14,7 +14,7 @@ namespace AbstracaoEncapsulamento.models
         {
         }
 
-        public override void Apresentar5()
+        public override void Apresentar()
         {
             Console.WriteLine("Diretor");
         }

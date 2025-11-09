@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Manual de Estudo .NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37153b0e833f5e08983f396e1d83d7b04227677d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f33500b365ef0be43371b67c539ddd0204f4f84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Manual de Estudo .NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Manual de Estudo .NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
