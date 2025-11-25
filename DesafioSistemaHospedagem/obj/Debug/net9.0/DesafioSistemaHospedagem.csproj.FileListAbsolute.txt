@@ -13,3 +13,18 @@ C:\Users\Administrator\Documents\Manual de Estudo .NET\DesafioSistemaHospedagem\
 C:\Users\Administrator\Documents\Manual de Estudo .NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.pdb
 C:\Users\Administrator\Documents\Manual de Estudo .NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.genruntimeconfig.cache
 C:\Users\Administrator\Documents\Manual de Estudo .NET\DesafioSistemaHospedagem\obj\Debug\net9.0\ref\DesafioSistemaHospedagem.dll
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\bin\Debug\net9.0\DesafioSistemaHospedagem.exe
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\bin\Debug\net9.0\DesafioSistemaHospedagem.deps.json
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\bin\Debug\net9.0\DesafioSistemaHospedagem.runtimeconfig.json
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\bin\Debug\net9.0\DesafioSistemaHospedagem.dll
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\bin\Debug\net9.0\DesafioSistemaHospedagem.pdb
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.AssemblyInfo.cs
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.sourcelink.json
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.dll
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\refint\DesafioSistemaHospedagem.dll
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.pdb
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\DesafioSistemaHospedagem.genruntimeconfig.cache
+C:\Users\admin\Documents\Desenvolvimento TI\Desenvolvimento Dotnet\Desenvolvimento_.NET\DesafioSistemaHospedagem\obj\Debug\net9.0\ref\DesafioSistemaHospedagem.dll
